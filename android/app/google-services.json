@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390090135492",
+    "project_id": "morestarts-327be",
+    "storage_bucket": "morestarts-327be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390090135492:android:daa8ef8c2c1bd15d8bb691",
+        "android_client_info": {
+          "package_name": "com.morestarts.morestarts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZJ9bAQv-6_fs76UZOiUbcQLr1CeJtfhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
